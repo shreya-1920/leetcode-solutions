@@ -10,4 +10,4 @@ class Solution:
         else:
             low=mid+1
        return low
-        
+#we used lower bound logic here 
